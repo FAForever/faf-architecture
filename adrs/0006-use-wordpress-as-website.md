@@ -1,4 +1,4 @@
-# Using phpBB3 as forum software
+# Using phpBB3 as website
 
 * Status: superseded
 * Deciders: ZePil0t
