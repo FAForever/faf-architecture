@@ -14,7 +14,8 @@
 
 ## Considered Options
 
-Mediawiki* We have no knowledge about other options considered back then.
+* Mediawiki
+* We have no knowledge about other options considered back then.
 
 ## Decision Outcome
 
