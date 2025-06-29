@@ -1,6 +1,6 @@
 # Using phpBB3 as forum software
 
-* Status: accepted
+* Status: superseded
 * Deciders: ZePil0t
 * Date: around 2013
 
