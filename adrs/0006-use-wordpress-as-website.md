@@ -1,4 +1,4 @@
-# Using phpBB3 as website
+# Using Wordpress as website
 
 * Status: superseded
 * Deciders: ZePil0t
