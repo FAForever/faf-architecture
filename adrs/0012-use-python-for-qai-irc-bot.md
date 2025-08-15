@@ -2,7 +2,7 @@
 
 * Status: superseded
 * Deciders: ZePil0t
-* Date: around 2013
+* Date: 18.10.2014
 
 ## Context and Problem Statement
 
