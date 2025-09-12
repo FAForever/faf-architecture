@@ -1,5 +1,5 @@
 # FAF architecture manifesto
-_Last update: 26.08.2025_
+_Last update: 12.09.2025_
 
 
 This manifesto is a guideline for software development at the FAForever project and explains the general architecture rules and the reasons for these choices.
