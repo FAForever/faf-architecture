@@ -36,7 +36,7 @@ However, we have to keep in mind that our developer resources are limited and so
 
 As such we would like to ask you to
 * check if your requirement can be handled by 3rd party software (see buy-or-make decisions)
-* stick to popular languages inside the FAF project (which are as of 2024: Kotlin, Python and Rust)
+* stick to popular languages inside the FAF project (which are as of 2025: Java, Kotlin, Python and Rust)
 * stick to well-established frameworks for these frameworks
 * use existing libraries instead of reimplementing code where possible
 
