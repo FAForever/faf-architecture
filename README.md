@@ -74,9 +74,8 @@ As of now, there is no solution to announce and enforce gradual deprecation.
 
 Know exceptions:
 * ICE adapter cannot use HTTP, but uses UDP and TCP.
-* The lobby server still uses raw TCP instead of HTTP for messaging.
+* The lobby server still uses raw TCP instead of HTTP for messaging (but we put a websocket bridge in front of it).
 * The replay server uses raw TCP (since all data is raw).
-* The IRC server still allows connecting via TCP for compatibility (HTTP is enabled though).
 
 
 ## Testing
